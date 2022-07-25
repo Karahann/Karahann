@@ -19,7 +19,12 @@
 <img align="left" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg&color=white" />
+<img align="left" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+<br />
+<br />
+<br />
+
 ---
 
 ### Connect with me:
