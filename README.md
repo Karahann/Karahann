@@ -1,12 +1,9 @@
 ### Hi there, I'm Enes <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🔭 I’m currently working on Back-End
-<img align="left" alt="arnabdeypolimi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arnabdeypolimi&show_icons=true&hide_border=true" />
+<img align="left" alt="arnabdeypolimi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true&theme=dark" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnabdeypolimi&show_icons=true&hide_border=true)](https://github.com/arnabdeypolimi)
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true&theme=dark"/>      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Karahann&show_icons=true&theme=dark"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Karahann&show_icons=true&theme=dark)](https://github.com/arnabdeypolimi)
 
 ### Connect with me:
 
