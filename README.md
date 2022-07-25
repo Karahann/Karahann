@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently working on Back-End
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Karahann"/>
+
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/sefa-enes-karahan-39a5b8224//">
