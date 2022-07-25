@@ -1,7 +1,4 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&width=450&lines=I'm+Analyst+Systems+%26+Technical+Support;I+write+articles+on+Dev.to+~+redhcp)](https://git.io/typing-svg)
-<!--
-**Karahann/Karahann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on Back-End
 
