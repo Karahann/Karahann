@@ -9,7 +9,8 @@
 <a href="https://www.linkedin.com/in/sefa-enes-karahan-39a5b8224//">
 <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
----
+
+
 
 ### Languages and Tools:
 
