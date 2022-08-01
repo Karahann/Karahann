@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Back-End
 - ---
-<img align="left" alt="arnabdeypolimi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true&theme=dark" />
+<img align="left" alt="arnabdeypolimi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Karahann&show_icons=true&theme=dark" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Karahann&show_icons=true&theme=dark)](https://github.com/arnabdeypolimi)
 
