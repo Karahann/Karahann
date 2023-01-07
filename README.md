@@ -1,6 +1,6 @@
 ### Hi there, I'm Enes <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently working on Back-End
+- 🔭 I’m currently working on Web development
 - ---
 <img align="left" alt="arnabdeypolimi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Karahann&show_icons=true&theme=dark" />
 
